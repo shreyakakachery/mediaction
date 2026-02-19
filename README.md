@@ -22,11 +22,8 @@ Every drug in this gallery follows a three-step narrative:
 - View the binding process in action
 - Discover the clinical outcome of the drug
 
-
-
+#### Note:
 Data is fetched client-side from the open-access PubChem PUG REST API. Since this is a public scientific resource, no sensitive API keys are stored in the frontend.
-
-
 
 
 ## Tech Stack
