@@ -85,7 +85,7 @@ export default function MediActionPage() {
         <ambientLight intensity={0.7} />
         <pointLight position={[10, 10, 10]} />
         <Suspense fallback={null}>
-          <Stage environment="city" intensity={0.6} contactShadow={false}>
+          <Stage environment="city" intensity={0.6} shadows={false}>
             <Molecule cid={currentDrug.pubChemId} step={step} />
             <Target drug={currentDrug} step={step} />
           </Stage>
