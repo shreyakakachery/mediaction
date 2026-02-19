@@ -17,9 +17,9 @@
                 "shape": "enzyme"
               },
               "mechanisms": {
-                "lights": "Captopril molecule: A sulfhydryl-containing ACE inhibitor.",
-                "camera": "Target: Angiotensin-Converting Enzyme (ACE) which converts Angiotensin I to II.",
-                "action": "Binding: The thiol group interacts with the zinc ion in the enzyme's active site, blocking production of the vasoconstrictor Angiotensin II."
+                "lights": "A sulfhydryl-containing ACE inhibitor.",
+                "camera": "Angiotensin-Converting Enzyme (ACE) which converts Angiotensin I to II.",
+                "action": "The thiol group interacts with the zinc ion in the enzyme's active site, blocking production of the vasoconstrictor Angiotensin II."
               }
             }
           ]
