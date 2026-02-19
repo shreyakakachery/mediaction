@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "system": "Cardiovascular",
+      "classes": [
+        {
+          "name": "ACE Inhibitors",
+          "drugs": [
+            {
+              "id": "captopril",
+              "name": "Captopril",
+              "pubChemId": 44093,
+              "targetMetadata": {
+                "name": "ACE Enzyme",
+                "color": "#22d3ee",
+                "scale": 2.5,
+                "shape": "enzyme"
+              },
+              "mechanisms": {
+                "lights": "Captopril molecule: A sulfhydryl-containing ACE inhibitor.",
+                "camera": "Target: Angiotensin-Converting Enzyme (ACE) which converts Angiotensin I to II.",
+                "action": "Binding: The thiol group interacts with the zinc ion in the enzyme's active site, blocking production of the vasoconstrictor Angiotensin II."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
